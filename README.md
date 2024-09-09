@@ -1,4 +1,9 @@
 # Spooky
+
+# Návod na spustenie vo VS Code
+
+Pred spustením je nutné mať naištalovaný posledný JDK, je tak možné spraviť cez https://code.visualstudio.com/docs/languages/java alebo Java Extension Pack.
+Môže sa vyskytnúť problém so source path, je potrebné ju zmeniť na src/.
  
 # Popis programu
 
