@@ -1,7 +1,6 @@
 # Spooky
  
-Popis programu
-
+#Popis programu /n
 Hra s pracovným názvom Spooky je môj projekt, do ktorého som sa s nadšením
 pustil, pretože mám rád temnú ale zároveň rozprávkovú atmosféru a pixelovú grafiku, čo som
 ktorú som v hre použil. Ide o jednoduchú 2d hru z bočného pohľadu, dá sa povedať
@@ -9,8 +8,7 @@ platformovku, kde sa hráč pohybuje po teréne mapy, prechádza z jednej do dru
 nepriateľa, s ktorým zažije krvilačný boj. Ako hráč máte na výber dva typy útokov: rýchly úder
 mečom na blízku vzdialenosť a streľba z luku, ktorá je ale časovo náročná.
 
-Používateľská príručka
-
+#Používateľská príručka /n
 Dostali ste sa k spusteniu programu. Hneď prvé, s čím sa ako používateľ stretnete, je
 jednoduché menu s výberom postavy, tlačidlami pre spustenie hernej časti programu,
 nastavení a nakoniec vypnutie. Pod tlačidlami sa skrýva slider na hlasitosť hudby. Dobre si
